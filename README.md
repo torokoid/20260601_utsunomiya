@@ -294,10 +294,10 @@ p.note { display: none; }
 
 <h2><span class="yellow">おうし座、説明リンクします</span></h2>
     <h2><a href="https://www.kyoiku-shuppan.co.jp/docs/pages/rika/guide/astro/ousiza.html" target="_blank"><span class="snow">おうし座とは</span></a></h2>
-
+-->
 <h2><span class="yellow">ふたご座、説明リンクします</span></h2>
-    <h2><a href="https://www.kyoiku-shuppan.co.jp/docs/pages/rika/guide/astro/hutagoza.html" target="_blank"><span class="snow">ふたご座とは</span></a></h2>
-
+    <h2><a href="https://www.kyoiku-shuppan.co.jp/docs/pages/rika/guide/astro/hutagoza.html" target="_blank"><span class="snow">ふたご座とは</span></a></h2><br><br>
+<!--
 <h2><span class="yellow">こいぬ座、説明リンクします</span></h2>
     <h2><a href="https://www.kyoiku-shuppan.co.jp/docs/pages/rika/guide/astro/koinuza.html" target="_blank"><span class="snow">こいぬ座とは</span></a></h2>
 
